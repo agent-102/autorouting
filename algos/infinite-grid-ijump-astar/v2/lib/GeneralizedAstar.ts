@@ -1,3 +1,4 @@
+import { removeWildTraceJumps } from "./removeWildTraceJumps"
 import type { AnySoupElement, LayerRef, PCBSMTPad } from "circuit-json"
 // import { QuadtreeObstacleList } from "./QuadtreeObstacleList"
 import type { Node, Point, PointWithObstacleHit } from "./types"
